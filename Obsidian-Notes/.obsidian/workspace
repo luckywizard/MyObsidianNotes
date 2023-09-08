@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "d2c0961685bc2ed1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a47b129646e666f0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b7ed54b5d772f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b8716ae2d710ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6739d037bf97277a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2caf7273d17f68ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03b23dcd74ad9a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e858002dda87a35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e882d91533dd3a65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96fe46e7907fc79a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a47b129646e666f0",
+  "lastOpenFiles": [
+    "信号处理/快速傅里叶变换（Fast Fourier Transform）.md",
+    "期刊-大学生创新创业.md",
+    "Markdown数学公式语法.md",
+    "Pasted image 20220527160659.png",
+    "仿真工作的要点.md",
+    "变分.md",
+    "水锤波/偏微分方程与特征线法.md",
+    "水锤波/水锤分析软件.md",
+    "Gmsh/Gmsh 极简入门.md",
+    "by.md"
+  ]
+}

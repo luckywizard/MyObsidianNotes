@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "d2c0961685bc2ed1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b980bb465dcdcbbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a47b129646e666f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMSOL/COMSOL基本操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d29ab5ccd802b53b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "声波.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77c69b6f25ef3efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数之道笔记/数之道-从个体动机到群体规律-ABM模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d8f423e8f986d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数之道笔记/最优路径问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4ec71eb633fa7e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "正态分布公式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a08d3c3e6787075f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1febc1a0477b2b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "U-Boot 学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b7ed54b5d772f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b8716ae2d710ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6739d037bf97277a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2caf7273d17f68ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22e565efa9cbc494",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03b23dcd74ad9a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e858002dda87a35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e882d91533dd3a65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "U-Boot 学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96fe46e7907fc79a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "1febc1a0477b2b1b",
+  "lastOpenFiles": [
+    "TINA-TI基本教程.md",
+    "电子系统签到.md",
+    "分立元件/分立元件.md",
+    "COMSOL/COMSOL基本操作.md",
+    "Untitled (2).md",
+    "过采样.md",
+    "U-Boot 学习.md",
+    "Pasted image 20220625202623.png",
+    "Pasted image 20220625202356.png",
+    "Pasted image 20220511171448.png",
+    "Pasted image 20220511171310.png",
+    "Pasted image 20220511170242.png",
+    "paper.md",
+    "Markdown下的六种字体命令.md",
+    "conda.md",
+    "模拟电路学习笔记/详解三种基本放大电路.md",
+    "模拟电路学习笔记/信号放大电路.md",
+    "模拟电路学习笔记/三极管信号放大电路.png",
+    "模拟电路学习笔记",
+    "Threadx",
+    "RT-Thread/RT-Thread说明.md",
+    "RT-Thread",
+    "FreeRTOS",
+    "Untitled.md",
+    "Physics-Informed_Neural_Network/Harmonic oscillator PINN.md",
+    "Physics-Informed_Neural_Network",
+    "Markdown数学公式语法.md",
+    "变分.md",
+    "公式.md",
+    "MarkDown流程图.md",
+    "正态分布公式.md",
+    "Pasted image 20221109211211.png",
+    "Pasted image 20221109211143.png",
+    "Pasted image 20221109211047.png",
+    "数之道笔记/最优路径问题.md",
+    "数之道笔记/attachment/Pasted image 20221205104646.png",
+    "数之道笔记/聚类分析.md"
+  ]
+}
