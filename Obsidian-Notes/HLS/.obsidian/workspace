@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "7d01846e3ae5ac90",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed01da671b0042c7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0569a4474319bd5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8137d6761056bff3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a6e5180a4b0b507",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8f3690d342f4e9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b475b2043e3fd70",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2eb68aa57396402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25a8cabdf133464f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ed01da671b0042c7",
+  "lastOpenFiles": [
+    "Is Deep better than Shallow.md"
+  ]
+}

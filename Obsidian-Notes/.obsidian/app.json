@@ -1,6 +1,7 @@
 {
-  "showLineNumber": true,
+  "attachmentFolderPath": "/Attachment",
+  "vimMode": true,
   "legacyEditor": false,
-  "attachmentFolderPath": "数之道笔记/attachment",
+  "showLineNumber": true,
   "promptDelete": false
 }
