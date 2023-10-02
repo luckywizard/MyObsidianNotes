@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "过采样系列三：量化误差与过采样率.md",
+                "file": "电路相关笔记/过采样系列三：量化误差与过采样率.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "过采样系列三：量化误差与过采样率.md",
+                "file": "电路相关笔记/过采样系列三：量化误差与过采样率.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,14 +165,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCI写作神器——citexs【专业、免费、开放的科研平台】.md",
+                "file": "Σ-Δ调制器（Sigma-Delta Modulator）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "769d3b382c9d3013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电路相关笔记/三极管等效电路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e4aabb8cffe8bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学学习笔记/度量空间概念.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b77e921f8613d57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -238,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCI写作神器——citexs【专业、免费、开放的科研平台】.md",
+                "file": "公式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,6 +282,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "111dfb7131c23db4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -268,40 +314,49 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d82d92c26adb537a",
+  "active": "b77e921f8613d57b",
   "lastOpenFiles": [
-    "Pasted image 20221109211143.png",
-    "Pasted image 20220625202356.png",
-    "Pasted image 20220511171310.png",
-    "Pasted image 20220511170242.png",
-    "Connected Papers.md",
-    "Markdown数学公式.md",
-    "SCI写作神器——citexs【专业、免费、开放的科研平台】.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Σ-Δ调制器（Sigma-Delta Modulator）.md",
-    "有压瞬变流反问题研究综述.md",
-    "英文文献语句收集-水锤波.md",
-    "杨勇斌-重庆大学中国工程院院士.md",
-    "项目方向.md",
     "习题.md",
-    "如何快递读懂AI论文.md",
-    "尿酸高可以恢复正常.md",
+    "项目方向.md",
+    "杨勇斌-重庆大学中国工程院院士.md",
+    "英文文献语句收集-水锤波.md",
+    "有压瞬变流反问题研究综述.md",
+    "电路相关笔记/过采样系列三：量化误差与过采样率.md",
+    "电路相关笔记/过采样4：提高ADC分辨率实例.md",
+    "机器学习笔记.md",
+    "过采样.md",
+    "数学学习笔记/度量空间概念.md",
+    "数学学习笔记/第一讲 变分问题.md",
+    "仿真工作的要点.md",
+    "电路相关笔记/分立元件/分立元件.md",
+    "数学学习笔记/变分学/变分.md",
+    "软件安装激活/2023最新教程IDM官方最新版版本一键激活免费使用.md",
+    "数学学习笔记",
+    "软件安装激活",
+    "电路相关笔记/模拟电路学习笔记/信号放大电路.md",
+    "电路相关笔记/模拟电路学习笔记/详解三种基本放大电路.md",
+    "电路相关笔记/模拟电路学习笔记/三极管信号放大电路.png",
+    "电路相关笔记/三极管等效电路.md",
     "解析信号与复包络（一）.md",
     "解析信号与复包络（二）.md",
-    "机器学习笔记.md",
-    "过采样系列三：量化误差与过采样率.md",
-    "过采样4：提高ADC分辨率实例.md",
-    "第一讲 变分问题.md",
-    "D2L/Notation.md",
-    "!note.md",
-    "随机信号处理/随机信号处理-1.md",
-    "数之道笔记/数之道-笔记.md",
-    "2023最新教程IDM官方最新版版本一键激活免费使用.md",
-    "Attachment/Pasted image 20230829165610.png",
-    "Attachment/Pasted image 20230829165452.png",
-    "变分学",
+    "编程相关笔记/Python模块.md",
+    "电子系统签到.md",
+    "电路相关笔记",
+    "编程相关笔记/五分钟带你读懂UML类图.md",
+    "编程相关笔记",
+    "Attachment/Pasted image 20231002110845.png",
+    "Attachment/Pasted image 20231002110754.png",
+    "Attachment/Pasted image 20231002110730.png",
+    "Attachment/Pasted image 20231002110711.png",
+    "Attachment/Pasted image 20231002110642.png",
+    "Attachment/Pasted image 20231002110622.png",
+    "Attachment/Pasted image 20231002110556.png",
+    "Attachment/Pasted image 20231002110536.png",
+    "Attachment/Pasted image 20231002110424.png",
+    "paper.md",
+    "期刊-大学生创新创业.md",
+    "Σ-Δ调制器（Sigma-Delta Modulator）.md",
+    "数学学习笔记/变分学",
     "D2L"
   ]
 }
