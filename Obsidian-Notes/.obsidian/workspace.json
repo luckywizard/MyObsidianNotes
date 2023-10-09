@@ -1,228 +1,100 @@
 {
   "main": {
-    "id": "60d0f9f1192e9e3e",
+    "id": "d2c0961685bc2ed1",
     "type": "split",
     "children": [
       {
-        "id": "caa12af9772bf173",
+        "id": "b980bb465dcdcbbf",
         "type": "tabs",
         "children": [
           {
-            "id": "5b14e4e98dd8f923",
+            "id": "a47b129646e666f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随机信号处理/随机信号处理-1.md",
+                "file": "COMSOL/COMSOL基本操作.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab449fc2113259b6",
+            "id": "d29ab5ccd802b53b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PBDL-Physics_Based_Deep_Learning/PBDL 1.md",
+                "file": "声波.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c6d32170554a1211",
+            "id": "2d8f423e8f986d0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown数学公式.md",
+                "file": "数之道笔记/最优路径问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "569575a4443eacc7",
+            "id": "c4ec71eb633fa7e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/7 种过采样技术-解决数据不平衡问题.md",
+                "file": "正态分布公式.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4c561f8b04079baf",
+            "id": "a08d3c3e6787075f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路相关笔记/过采样系列三：量化误差与过采样率.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac97b094cfd12266",
+            "id": "1febc1a0477b2b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路相关笔记/过采样系列三：量化误差与过采样率.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b0d809fe44fb12e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "32c5156566e42620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Connected Papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "735e0c32e1684e87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "尿酸高可以恢复正常.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a30456d292993bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Connected Papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e554bdf52beb216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCI写作神器——citexs【专业、免费、开放的科研平台】.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47561d0de0e702f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
-            "id": "d3b35390f2443386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "解析信号与复包络（二）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d82d92c26adb537a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Σ-Δ调制器（Sigma-Delta Modulator）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "769d3b382c9d3013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电路相关笔记/三极管等效电路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e4aabb8cffe8bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学学习笔记/度量空间概念.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b77e921f8613d57b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公式.md",
+                "file": "声波.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f9217bc6f26aacba",
+    "id": "4b7ed54b5d772f56",
     "type": "split",
     "children": [
       {
-        "id": "6bf610e704336f99",
+        "id": "e5b8716ae2d710ee",
         "type": "tabs",
         "children": [
           {
-            "id": "1f12941c738142a6",
+            "id": "6739d037bf97277a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -232,12 +104,12 @@
             }
           },
           {
-            "id": "e765d62108f4c21e",
+            "id": "2caf7273d17f68ca",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Preface",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,7 +119,7 @@
             }
           },
           {
-            "id": "c1c8f85b5fb2c1a5",
+            "id": "22e565efa9cbc494",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -258,35 +130,46 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 300
   },
   "right": {
-    "id": "d4dc2e4d6fc2a36e",
+    "id": "03b23dcd74ad9a79",
     "type": "split",
     "children": [
       {
-        "id": "37a8bc8b7d956394",
+        "id": "4e858002dda87a35",
         "type": "tabs",
         "children": [
           {
-            "id": "82d95419342fd9cf",
+            "id": "e882d91533dd3a65",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公式.md",
-                "collapseAll": true,
+                "file": "Untitled.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "111dfb7131c23db4",
+            "id": "96fe46e7907fc79a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "32dfdc76fa6106f5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -295,7 +178,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -304,59 +188,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "b77e921f8613d57b",
+  "active": "a08d3c3e6787075f",
   "lastOpenFiles": [
-    "习题.md",
-    "项目方向.md",
-    "杨勇斌-重庆大学中国工程院院士.md",
-    "英文文献语句收集-水锤波.md",
-    "有压瞬变流反问题研究综述.md",
-    "电路相关笔记/过采样系列三：量化误差与过采样率.md",
-    "电路相关笔记/过采样4：提高ADC分辨率实例.md",
-    "机器学习笔记.md",
-    "过采样.md",
-    "数学学习笔记/度量空间概念.md",
-    "数学学习笔记/第一讲 变分问题.md",
+    "COMSOL/COMSOL基本操作.md",
+    "声波.md",
+    "数之道笔记/数之道-从个体动机到群体规律-ABM模型.md",
+    "正态分布公式.md",
+    "Untitled.md",
+    "变分.md",
+    "MathPages/Phase, Group, and Signal Velocity.md",
+    "中油测井会议2023-09-20.md",
+    "Untitled (2).md",
+    "U-Boot 学习.md",
+    "公式.md",
+    "RT-Thread/RT-Thread说明.md",
+    "Python-note/Anaconda conda常用命令.md",
+    "Physics-Informed_Neural_Network/Harmonic oscillator PINN.md",
+    "Obsidian使用/Pasted image 20220506101518.png",
+    "Obsidian使用/Obsidian知识体系搭建.md",
+    "Obsidian使用/内部链接.md",
+    "Python-note/Pasted image 20220503111415.png",
+    "Python-note/Pasted image 20220503111047.png",
+    "分析.md",
     "仿真工作的要点.md",
-    "电路相关笔记/分立元件/分立元件.md",
-    "数学学习笔记/变分学/变分.md",
-    "软件安装激活/2023最新教程IDM官方最新版版本一键激活免费使用.md",
-    "数学学习笔记",
-    "软件安装激活",
-    "电路相关笔记/模拟电路学习笔记/信号放大电路.md",
-    "电路相关笔记/模拟电路学习笔记/详解三种基本放大电路.md",
-    "电路相关笔记/模拟电路学习笔记/三极管信号放大电路.png",
-    "电路相关笔记/三极管等效电路.md",
-    "解析信号与复包络（一）.md",
-    "解析信号与复包络（二）.md",
-    "编程相关笔记/Python模块.md",
-    "电子系统签到.md",
-    "电路相关笔记",
-    "编程相关笔记/五分钟带你读懂UML类图.md",
-    "编程相关笔记",
-    "Attachment/Pasted image 20231002110845.png",
-    "Attachment/Pasted image 20231002110754.png",
-    "Attachment/Pasted image 20231002110730.png",
-    "Attachment/Pasted image 20231002110711.png",
-    "Attachment/Pasted image 20231002110642.png",
-    "Attachment/Pasted image 20231002110622.png",
-    "Attachment/Pasted image 20231002110556.png",
-    "Attachment/Pasted image 20231002110536.png",
-    "Attachment/Pasted image 20231002110424.png",
+    "度量空间概念.md",
+    "过采样.md",
+    "attachment/Pasted image 20220511170242.png",
+    "attachment/Pasted image 20221109211211.png",
+    "attachment/Pasted image 20220511171448.png",
+    "attachment/Pasted image 20220511171310.png",
+    "attachment/Pasted image 20230918070058.png",
+    "数之道笔记/attachment/Pasted image 20230918034821.png",
+    "TINA-TI基本教程.md",
+    "Pasted image 20221205110100.png.md",
+    "attachment/Pasted image 20221109211143.png",
     "paper.md",
-    "期刊-大学生创新创业.md",
-    "Σ-Δ调制器（Sigma-Delta Modulator）.md",
-    "数学学习笔记/变分学",
-    "D2L"
+    "Markdown下的六种字体命令.md",
+    "Markdown数学公式语法.md",
+    "MarkDown流程图.md",
+    "MathPages",
+    "ML",
+    "HLS",
+    "D2L",
+    "随机信号处理",
+    "Daily-Notes",
+    "Obsidian教程笔记",
+    "mdnotes-files",
+    "DiveIntoDeepLearning",
+    "PBDL-Physics_Based_Deep_Learning"
   ]
 }

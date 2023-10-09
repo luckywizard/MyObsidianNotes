@@ -5,15 +5,15 @@
   "graph",
   "backlink",
   "canvas",
+  "tag-pane",
   "properties",
   "page-preview",
-  "daily-notes",
-  "templates",
   "note-composer",
   "command-palette",
   "editor-status",
   "bookmarks",
   "markdown-importer",
   "word-count",
+  "audio-recorder",
   "file-recovery"
 ]

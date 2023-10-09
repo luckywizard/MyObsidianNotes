@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "60d0f9f1192e9e3e",
+    "id": "d2c0961685bc2ed1",
     "type": "split",
     "children": [
       {
-        "id": "f7cf17f2e7841e38",
+        "id": "a47b129646e666f0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "机器学习笔记.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f9217bc6f26aacba",
+    "id": "4b7ed54b5d772f56",
     "type": "split",
     "children": [
       {
-        "id": "6bf610e704336f99",
+        "id": "e5b8716ae2d710ee",
         "type": "tabs",
         "children": [
           {
-            "id": "1f12941c738142a6",
+            "id": "6739d037bf97277a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +31,12 @@
             }
           },
           {
-            "id": "e765d62108f4c21e",
+            "id": "2caf7273d17f68ca",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Preface",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,48 +52,59 @@
     "width": 300
   },
   "right": {
-    "id": "d4dc2e4d6fc2a36e",
+    "id": "03b23dcd74ad9a79",
     "type": "split",
     "children": [
       {
-        "id": "37a8bc8b7d956394",
+        "id": "4e858002dda87a35",
         "type": "tabs",
         "children": [
           {
-            "id": "82d95419342fd9cf",
+            "id": "e882d91533dd3a65",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机器学习笔记.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96fe46e7907fc79a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f7cf17f2e7841e38",
+  "active": "a47b129646e666f0",
   "lastOpenFiles": [
-    "Untitled.md",
-    "机器学习笔记.md",
-    "有压瞬变流反问题研究综述.md",
-    "习题.md",
-    "解析信号与复包络（一）.md",
-    "解析信号与复包络（二）.md",
-    "Attachment/Pasted image 20220507210902.png",
-    "Daily-Notes/2022-05-08.md",
-    "HLS/Is Deep better than Shallow.md",
-    "Obsidian教程笔记/日记—Obsidian的保姆级教程.md"
+    "信号处理/快速傅里叶变换（Fast Fourier Transform）.md",
+    "期刊-大学生创新创业.md",
+    "Markdown数学公式语法.md",
+    "Pasted image 20220527160659.png",
+    "仿真工作的要点.md",
+    "变分.md",
+    "水锤波/偏微分方程与特征线法.md",
+    "水锤波/水锤分析软件.md",
+    "Gmsh/Gmsh 极简入门.md",
+    "by.md"
   ]
 }
