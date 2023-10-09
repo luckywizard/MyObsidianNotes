@@ -3,7 +3,7 @@ RC滤波电路里的时间常数
 
 
 ## RC电路
-![[Pasted image 20221109210207.png]]
+![[电路相关笔记/ADC知识笔记/attatchments/Pasted image 20221109210207.png]]
 
 > [!note] 
 > 电容的电荷$q=C\times u$； 
