@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "175356783a30f5f8",
+        "id": "51a88fdd1e37eff2",
         "type": "tabs",
         "children": [
           {
-            "id": "421d57ab7e43e67f",
+            "id": "7b539df365379a8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian教程笔记/日记—Obsidian的保姆级教程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb39dffc3c72233f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程相关笔记/QT/override.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#日记",
+                "query": "tina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程相关笔记/QT/override.md",
+                "file": "mdnotes-files/careyAnalysisWaterHammer2015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,21 +123,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "cb39dffc3c72233f",
+  "active": "6739d037bf97277a",
   "lastOpenFiles": [
+    "其他笔记/TINA-TI基本教程.md",
+    "其他笔记/仿真工作的要点 1.md",
+    "Untitled 3.md",
+    "其他笔记/径向基函数（Radial Basis Function, RBF）.md",
+    "其他笔记/度量空间概念.md",
+    "分立元件/分立元件.md",
+    "第一讲 变分问题.md",
+    "电子系统签到.md",
+    "模拟电路学习笔记/attachment/三极管信号放大电路.png",
+    "模拟电路学习笔记/attachment/输出信号测量图.png",
+    "模拟电路学习笔记/attachment/tina小信号放大仿真图.png",
+    "电路相关笔记/模拟电路学习笔记/三极管信号放大电路.png",
+    "编程相关笔记/C&C++",
+    "操作系统学习笔记/FreeRTOS",
+    "电路相关笔记/OpAmplifier知识笔记",
+    "电路相关笔记/模拟电路学习笔记/详解三种基本放大电路.md",
+    "电路相关笔记/模拟电路学习笔记/信号放大电路.md",
+    "模拟电路学习笔记/详解三种基本放大电路.md",
+    "模拟电路学习笔记/信号放大电路.md",
+    "编程相关笔记/QT/override.md",
     "编程相关笔记/QT/QMutex.md",
     "编程相关笔记/QT/QThread.md",
     "编程相关笔记/五分钟带你读懂UML类图.md",
-    "编程相关笔记/QT/override.md",
     "Obsidian教程笔记/日记—Obsidian的保姆级教程.md",
     "Obsidian教程笔记/模板—践行模块化思维.md",
     "Obsidian使用/Obsidian知识体系搭建.md",
@@ -168,34 +170,15 @@
     "其他笔记/英文文献语句收集-水锤波.md",
     "其他笔记/杨勇斌-重庆大学中国工程院院士.md",
     "其他笔记/项目方向.md",
-    "其他笔记/声波.md",
-    "其他笔记/习题.md",
-    "其他笔记/深度弱形式求解PDE（一）：Deepritz.md",
-    "其他笔记/如何快递读懂AI论文.md",
-    "其他笔记/期刊-大学生创新创业.md",
-    "其他笔记/解析信号与复包络（一）.md",
-    "其他笔记/解析信号与复包络（二）.md",
-    "编程相关笔记/Python/Python模块.md",
-    "其他笔记/过采样.md",
-    "其他笔记/尿酸高可以恢复正常.md",
-    "其他笔记/有压瞬变流反问题研究综述.md",
-    "其他笔记/正态分布公式.md",
     "操作系统学习笔记/Linux相关",
     "软件学习笔记",
     "其他笔记",
     "机器学习相关笔记",
     "操作系统学习笔记",
-    "编程相关笔记/C&C++",
     "编程相关笔记/Python",
     "编程相关笔记/QT",
     "attachment/Pasted image 20220511170242.png",
     "attachment/Pasted image 20221109211211.png",
-    "attachment/Pasted image 20220511171448.png",
-    "attachment/Pasted image 20220511171310.png",
-    "attachment/Pasted image 20230918070058.png",
-    "数之道笔记/attachment/Pasted image 20230918034821.png",
-    "attachment/Pasted image 20221109211143.png",
-    "数学学习笔记/MathPages",
-    "电路相关笔记/ML"
+    "attachment/Pasted image 20220511171448.png"
   ]
 }
