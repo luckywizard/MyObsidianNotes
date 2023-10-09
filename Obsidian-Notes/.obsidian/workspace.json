@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMSOL/COMSOL基本操作.md",
+                "file": "软件学习笔记/COMSOL/COMSOL基本操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "声波.md",
+                "file": "其他笔记/声波.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正态分布公式.md",
+                "file": "其他笔记/正态分布公式.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim命令.md",
+                "file": "HLS/Is Deep better than Shallow.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "声波.md",
+                "file": "其他笔记/声波.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 477.5
   },
   "right": {
     "id": "03b23dcd74ad9a79",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vim命令.md",
+                "file": "HLS/Is Deep better than Shallow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,53 +185,53 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a08d3c3e6787075f",
+  "active": "6739d037bf97277a",
   "lastOpenFiles": [
-    "变分.md",
-    "vim命令.md",
-    "Untitled.md",
-    "COMSOL/COMSOL基本操作.md",
-    "声波.md",
-    "数之道笔记/数之道-从个体动机到群体规律-ABM模型.md",
-    "正态分布公式.md",
-    "MathPages/Phase, Group, and Signal Velocity.md",
-    "中油测井会议2023-09-20.md",
-    "Untitled (2).md",
-    "U-Boot 学习.md",
-    "公式.md",
-    "RT-Thread/RT-Thread说明.md",
-    "Python-note/Anaconda conda常用命令.md",
-    "Physics-Informed_Neural_Network/Harmonic oscillator PINN.md",
+    "其他笔记/仿真工作的要点.md",
+    "其他笔记/中油测井会议2023-09-20.md",
+    "其他笔记/过采样.md",
+    "其他笔记/分析.md",
+    "其他笔记/MarkDown流程图.md",
+    "其他笔记/Markdown数学公式.md",
+    "其他笔记/Markdown数学公式语法.md",
+    "其他笔记/Markdown下的六种字体命令.md",
+    "其他笔记/paper.md",
+    "软件学习笔记/TINA-TI基本教程.md",
+    "软件学习笔记/Connected Papers.md",
+    "操作系统学习笔记/Linux相关/U-Boot 学习.md",
+    "操作系统学习笔记/Linux相关",
+    "软件学习笔记/vim命令.md",
+    "其他笔记/Σ-Δ调制器（Sigma-Delta Modulator）.md",
+    "其他笔记/有压瞬变流反问题研究综述.md",
+    "Obsidian教程笔记/日记—Obsidian的保姆级教程.md",
+    "Obsidian教程笔记/模板—践行模块化思维.md",
+    "Obsidian使用/内部链接.md",
     "Obsidian使用/Pasted image 20220506101518.png",
     "Obsidian使用/Obsidian知识体系搭建.md",
-    "Obsidian使用/内部链接.md",
-    "Python-note/Pasted image 20220503111415.png",
-    "Python-note/Pasted image 20220503111047.png",
-    "分析.md",
-    "仿真工作的要点.md",
-    "度量空间概念.md",
-    "过采样.md",
+    "Daily-Notes/2022-05-08.md",
+    "机器学习相关笔记/机器学习笔记.md",
+    "机器学习相关笔记/Physics-Informed_Neural_Network/Harmonic oscillator PINN.md",
+    "HLS/Is Deep better than Shallow.md",
+    "软件学习笔记",
+    "其他笔记",
+    "机器学习相关笔记",
+    "其他笔记/习题.md",
+    "为了降低压裂监测成本，以及实时监测压裂作业中的各种事件，通过研究水锤波及其激发的反射波的传播特性，提取隐藏在井口压力波中的信息，实现一种实时的非侵入式压裂监测技术。利用井口的压力传感器数据，通过理论分析、数值模拟和模型试验的方法探讨不同压裂事件作用下的井口压力波的响应规律，进而研究水锤波对压裂事件的监测方法以及事件发生位置的定位识别方法。.md",
+    "编程相关笔记/Anaconda/conda.md",
+    "操作系统学习笔记",
+    "编程相关笔记/C&C++",
+    "编程相关笔记/Python",
+    "编程相关笔记/QT",
+    "编程相关笔记/Anaconda/Pasted image 20220503111415.png",
+    "编程相关笔记/Anaconda/Pasted image 20220503111047.png",
     "attachment/Pasted image 20220511170242.png",
     "attachment/Pasted image 20221109211211.png",
     "attachment/Pasted image 20220511171448.png",
     "attachment/Pasted image 20220511171310.png",
     "attachment/Pasted image 20230918070058.png",
     "数之道笔记/attachment/Pasted image 20230918034821.png",
-    "TINA-TI基本教程.md",
-    "Pasted image 20221205110100.png.md",
     "attachment/Pasted image 20221109211143.png",
-    "paper.md",
-    "Markdown下的六种字体命令.md",
-    "Markdown数学公式语法.md",
-    "MathPages",
-    "ML",
-    "HLS",
-    "D2L",
-    "随机信号处理",
-    "Daily-Notes",
-    "Obsidian教程笔记",
-    "mdnotes-files",
-    "DiveIntoDeepLearning",
-    "PBDL-Physics_Based_Deep_Learning"
+    "数学学习笔记/MathPages",
+    "电路相关笔记/ML"
   ]
 }
